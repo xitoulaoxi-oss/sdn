@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+/tmp/
+docs/export/
+*.pdf
+.idea/
